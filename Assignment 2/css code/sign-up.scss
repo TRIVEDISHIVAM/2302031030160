@@ -1,0 +1,261 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.sign-up-xt7 {
+  padding-bottom: 9.8714rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  background-color: #f3f3f3;
+  overflow: hidden;
+
+  .status-bar-light-7FD {
+    width: 100%;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    margin-bottom: 4.7109rem;
+    box-sizing: border-box;
+    padding: 1.2rem 1.75rem 1.189rem 1.6rem;
+    height: 4.1891rem;
+    display: flex;
+    align-items: center;
+
+    .time-1Lb {
+      padding: 0.4rem 0.4rem 0.4rem 0.4rem;
+      height: 100%;
+      flex-shrink: 0;
+      margin-right: 17.35rem;
+      box-sizing: border-box;
+
+      .pm-8g7 {
+        width: 4.6rem;
+        height: 1rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .alarm-stb {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0.85rem 0rem 0rem;
+      width: 1.5rem;
+      height: 1.5rem;
+      object-fit: contain;
+    }
+    .bluetooth-p39 {
+      flex-shrink: 0;
+      margin: 0rem 0.82rem 0rem 0rem;
+      width: 1rem;
+      height: 1.4rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .wifi-YE3 {
+      flex-shrink: 0;
+      margin: 0rem 0.748rem 0.085rem 0rem;
+      width: 1.5418rem;
+      height: 1.125rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .signal-Gfq {
+      flex-shrink: 0;
+      margin: 0rem 0.76rem 0rem 0rem;
+      width: 1.18rem;
+      height: 1.18rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .battery-z63 {
+      margin-top: 0rem;
+      width: 1.5rem;
+      height: 1.05rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .frame-45-WKH {
+    margin: 0 1.6rem;
+    width: calc(100% - 3.2rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .auto-group-rbnf-duh {
+      width: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0rem 8.6rem 3.2rem 8.6rem;
+
+      .frame-106-yTm {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-bottom: 2.8rem;
+        width: 100%;
+        align-items: center;
+
+        .logo-8Lf {
+          padding: 4.007rem 3.869rem 3.975rem 3.9rem;
+          background-size: cover;
+          flex-shrink: 0;
+          background-image: url('REPLACE_IMAGE:2:115');
+          margin-bottom: 0.8rem;
+          box-sizing: border-box;
+          width: 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+
+          .vector-Tdq {
+            width: 7.8312rem;
+            height: 8.0464rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .gymtoolkit-muR {
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.3433rem;
+          font-size: 2rem;
+          font-weight: 900;
+        }
+      }
+      .sign-up-Hsm {
+        color: #1c1414;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        font-weight: 600;
+        line-height: 1.2125;
+      }
+    }
+    .username-textfield-psh {
+      margin-bottom: 3.3rem;
+      overflow: hidden;
+      position: relative;
+      font-size: 1.4rem;
+      display: flex;
+      align-items: center;
+      color: #190f0f;
+      white-space: nowrap;
+      background-color: #ffffff;
+      flex-shrink: 0;
+      justify-content: center;
+      border-radius: 0.5rem;
+      width: 100%;
+      height: 4.5rem;
+      font-weight: 600;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+    }
+    .email-textfield-t6s {
+      width: 100%;
+      height: 4.5rem;
+      font-weight: 600;
+      align-items: center;
+      flex-shrink: 0;
+      position: relative;
+      font-size: 1.4rem;
+      line-height: 1.2125;
+      color: #130b0b;
+      overflow: hidden;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+      border-radius: 0.5rem;
+      margin-bottom: 3.3rem;
+      white-space: nowrap;
+      justify-content: center;
+      background-color: #ffffff;
+    }
+    .password-textfield-XvX {
+      line-height: 1.2125;
+      align-items: center;
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+      width: 100%;
+      height: 4.5rem;
+      font-weight: 600;
+      flex-shrink: 0;
+      margin-bottom: 3.3rem;
+      position: relative;
+      font-size: 1.4rem;
+      white-space: nowrap;
+      justify-content: center;
+      background-color: #ffffff;
+      overflow: hidden;
+      color: #1e0f0f;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      border-radius: 0.5rem;
+    }
+    .sign-up-button-QUX {
+      height: 4.5rem;
+      color: #f8f8f8;
+      white-space: nowrap;
+      justify-content: center;
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+      background-color: #509f58;
+      width: 100%;
+      font-size: 1.4rem;
+      cursor: pointer;
+      overflow: hidden;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      flex-shrink: 0;
+      margin-bottom: 3.3rem;
+      position: relative;
+      font-weight: 600;
+      line-height: 1.2125;
+      display: flex;
+      border-radius: 0.5rem;
+    }
+    .have-account-sign-in-Txb {
+      line-height: 1.2125;
+      white-space: nowrap;
+      display: flex;
+      align-items: baseline;
+      flex-shrink: 0;
+      margin-right: 0.2rem;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+
+      .have-account-sign-in-Txb-sub-0 {
+        font-size: 1.4rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        color: #f8f8f8;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .have-account-sign-in-Txb-sub-1 {
+      }
+    }
+  }
+}

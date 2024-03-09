@@ -1,0 +1,115 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.onboarding-1-rDM {
+  width: 100%;
+  position: relative;
+  display: flex;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding: 15rem 3.55rem 5.5rem 3.55rem;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+
+  .group-2-NBh {
+    flex-shrink: 0;
+    margin: 0rem 0.45rem 9.5rem 0.35rem;
+    width: calc(100% - 0.8rem);
+    height: 20.2rem;
+    position: relative;
+
+    .rectangle-55-gy5 {
+      border-radius: 10.1rem;
+      width: 20.2rem;
+      height: 20.2rem;
+      position: absolute;
+      left: 4rem;
+      top: 0;
+      background-color: #efefef;
+    }
+    .onboarding-1-1-ono {
+      position: absolute;
+      left: 0;
+      top: 1.5rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 28.1rem;
+      height: 18.7rem;
+    }
+  }
+  .welcome-to-gymtoolkit-the-app-that-will-guide-you-on-a-deep-and-inspiring-fitness-journey-get-ready-to-achieve-the-healthy-and-strong-body-youve-always-dreamed-of-L23 {
+    font-weight: 400;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    margin-bottom: 13.6rem;
+    max-width: 28.9rem;
+    text-align: center;
+    font-size: 1.6rem;
+    line-height: 1.2125;
+    color: #000000;
+  }
+  .frame-1-NzK {
+    margin: 0rem 12.65rem 1.5rem 12.65rem;
+    width: calc(100% - 25.3rem);
+    display: flex;
+    column-gap: 0.8rem;
+    align-items: center;
+    flex-shrink: 0;
+
+    .rectangle-1-HbV {
+      width: 1rem;
+      height: 0.5rem;
+      background-color: #2e2e2e;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+    }
+    .rectangle-2-RSo {
+      width: 0.5rem;
+      height: 0.5rem;
+      background-color: #d9d9d9;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+    }
+    .rectangle-3-N79 {
+      width: 0.5rem;
+      height: 0.5rem;
+      background-color: #d9d9d9;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+    }
+  }
+  .submitt-button-7Kd {
+    height: 4.5rem;
+    overflow: hidden;
+    font-weight: 600;
+    color: #ffffff;
+    justify-content: center;
+    flex-shrink: 0;
+    margin: 0 6.85rem;
+    position: relative;
+    line-height: 1.3625;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    background-color: #2e2e2e;
+    width: calc(100% - 13.7rem);
+    font-size: 1.4rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-family: Nunito, 'Source Sans Pro';
+  }
+}

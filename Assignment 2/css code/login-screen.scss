@@ -1,0 +1,233 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.login-screen-ZqR {
+  position: relative;
+  align-items: center;
+  box-sizing: border-box;
+  padding-bottom: 8.7rem;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f3f3;
+
+  .status-bar-light-Vj5 {
+    display: flex;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    margin-bottom: 4.5109rem;
+    height: 4.1891rem;
+    width: 100%;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1.2rem 1.75rem 1.189rem 1.6rem;
+
+    .time-nTH {
+      margin-right: 17.35rem;
+      box-sizing: border-box;
+      padding: 0.4rem 0.4rem 0.4rem 0.4rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .pm-X9y {
+        width: 4.6rem;
+        height: 1rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .alarm-TpK {
+      margin: 0rem 0.85rem 0rem 0rem;
+      width: 1.5rem;
+      height: 1.5rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .bluetooth-BEX {
+      margin: 0rem 0.82rem 0rem 0rem;
+      width: 1rem;
+      height: 1.4rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .wifi-hTm {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0.748rem 0.085rem 0rem;
+      width: 1.5418rem;
+      height: 1.125rem;
+    }
+    .signal-RPm {
+      flex-shrink: 0;
+      margin: 0rem 0.76rem 0rem 0rem;
+      width: 1.18rem;
+      height: 1.18rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .battery-94s {
+      width: 1.5rem;
+      height: 1.05rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0rem;
+    }
+  }
+  .frame-44-rV5 {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0rem 1.7rem 0rem 1.5rem;
+    box-sizing: border-box;
+    padding-bottom: 14.5714rem;
+    width: calc(100% - 3.2rem);
+    align-items: center;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+    .auto-group-eymy-ZeP {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0rem 8.6rem 3.1rem 8.6rem;
+      width: 100%;
+      align-items: center;
+
+      .frame-107-hVh {
+        margin-bottom: 2.7rem;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .logo-FGK {
+          padding: 4.007rem 3.869rem 3.975rem 3.9rem;
+          width: 100%;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:2:77');
+          flex-shrink: 0;
+          box-sizing: border-box;
+          background-position: center;
+          margin-bottom: 0.8rem;
+
+          .vector-Au5 {
+            vertical-align: top;
+            width: 7.8312rem;
+            height: 8.0464rem;
+            object-fit: contain;
+          }
+        }
+        .gymtoolkit-VRZ {
+          font-weight: 900;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.3433rem;
+          font-size: 2rem;
+        }
+      }
+      .sign-in-nvT {
+        white-space: nowrap;
+        display: flex;
+        align-items: baseline;
+        flex-shrink: 0;
+        font-weight: 600;
+        line-height: 1.2125;
+        color: #151111;
+        font-family: Inter, 'Source Sans Pro';
+        margin-right: 0.2rem;
+        font-size: 2.4rem;
+
+        .sign-in-nvT-sub-0 {
+          font-weight: 600;
+          line-height: 1.2125;
+          color: #281f1f;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+        }
+        .sign-in-nvT-sub-1 {
+        }
+      }
+    }
+    .username-textfield-mR1 {
+      height: 4.5rem;
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+      font-weight: 600;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      display: flex;
+      background-color: #ece8f6;
+      width: 100%;
+      position: relative;
+      color: #1d1818;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 3.2rem;
+      overflow: hidden;
+      font-size: 1.4rem;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+    }
+    .password-textfield-1KM {
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      position: relative;
+      line-height: 1.2125;
+      background-color: #ece8f6;
+      flex-shrink: 0;
+      font-weight: 600;
+      color: #1a0f0f;
+      display: flex;
+      box-shadow: 0.3rem 0.3rem 2rem rgba(0, 0, 0, 0.0799999982);
+      height: 4.5rem;
+      width: 100%;
+      overflow: hidden;
+      font-size: 1.4rem;
+      white-space: nowrap;
+      justify-content: center;
+      margin-bottom: 3.2rem;
+    }
+    .login-buttom-Gm5 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      border-radius: 0.5rem;
+      overflow: hidden;
+      white-space: nowrap;
+      flex-shrink: 0;
+      height: 4.5rem;
+      position: relative;
+      color: #ece8f6;
+      margin: 0 0.05rem;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      background-color: #466349;
+      width: calc(100% - 0.1rem);
+    }
+  }
+}

@@ -1,0 +1,131 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.onboarding-WX9 {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  background-color: #b078b5;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 28.6714rem;
+
+  .status-bar-light-g4F {
+    background-color: #ffffff;
+    flex-shrink: 0;
+    margin-bottom: 27.8109rem;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 1.2rem 1.75rem 1.189rem 1.6rem;
+    height: 4.1891rem;
+
+    .time-735 {
+      flex-shrink: 0;
+      margin-right: 17.35rem;
+      box-sizing: border-box;
+      padding: 0.4rem 0.4rem 0.4rem 0.4rem;
+      height: 100%;
+
+      .pm-2A3 {
+        object-fit: contain;
+        vertical-align: top;
+        width: 4.6rem;
+        height: 1rem;
+      }
+    }
+    .alarm-jq9 {
+      width: 1.5rem;
+      height: 1.5rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0.85rem 0rem 0rem;
+    }
+    .bluetooth-fTu {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0.82rem 0rem 0rem;
+      width: 1rem;
+      height: 1.4rem;
+      object-fit: contain;
+    }
+    .wifi-zm5 {
+      margin: 0rem 0.748rem 0.085rem 0rem;
+      width: 1.5418rem;
+      height: 1.125rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .signal-vud {
+      margin: 0rem 0.76rem 0rem 0rem;
+      width: 1.18rem;
+      height: 1.18rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .battery-FS7 {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0rem;
+      width: 1.5rem;
+      height: 1.05rem;
+      object-fit: contain;
+    }
+  }
+  .frame-105-LyM {
+    margin: 0 10.2rem;
+    width: calc(100% - 20.4rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .logo-Upf {
+      box-sizing: border-box;
+      background-size: cover;
+      background-image: url('REPLACE_IMAGE:2:46');
+      background-position: center;
+      flex-shrink: 0;
+      margin-bottom: 0.8rem;
+      padding: 4.007rem 3.869rem 3.975rem 3.9rem;
+      width: 100%;
+      background-repeat: no-repeat;
+
+      .vector-p7q {
+        width: 7.8312rem;
+        height: 8.0464rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .gymtoolkit-jkb {
+      flex-shrink: 0;
+      margin-left: 0.3433rem;
+      font-size: 2rem;
+      font-weight: 900;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+}
